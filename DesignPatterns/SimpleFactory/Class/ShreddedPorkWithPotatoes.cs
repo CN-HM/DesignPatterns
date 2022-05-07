@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.SimpleFactory
+﻿namespace DesignPatterns.SimpleFactory.Class
 {
     public class ShreddedPorkWithPotatoes : Food
     {

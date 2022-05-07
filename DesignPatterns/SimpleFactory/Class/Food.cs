@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.SimpleFactory
+﻿namespace DesignPatterns.SimpleFactory.Class
 {
     /// <summary>
     /// 抽象类食物

@@ -1,4 +1,6 @@
-﻿namespace DesignPatterns.SimpleFactory
+﻿using DesignPatterns.SimpleFactory.Class;
+
+namespace DesignPatterns.SimpleFactory
 {
     public class TomatoScrambledEggs : Food
     {
